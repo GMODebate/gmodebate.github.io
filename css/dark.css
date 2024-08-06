@@ -1,0 +1,487 @@
+:root {
+  --dark1: #00441d; /* Replace #333 with your desired color value */
+  --dark2: #005e27; /* Replace #555 with your desired color value */
+  --dark3: #002d13;
+
+  --darkbtn1: #32940b;
+  --darkbtn2: #37af04;
+
+}
+
+html.dark {
+  --readerbar: #f0f3e947;
+  --readerbarfill: #fff;
+}
+
+
+html.dark body {
+    background: black;
+    color: white;
+    background-attachment: fixed;
+}
+
+html.dark img {
+    background: #5d5d5d5c;
+    color: #999;
+}
+html.dark img.trans {
+  background: transparent;
+}
+
+html.dark blockquote {
+    background: transparent;
+    color: white;
+    border-color: #363636;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 1em;
+}
+html.dark blockquote blockquote {
+  background: transparent;
+  border-color: #363636;
+}
+html.dark[dir="rtl"] blockquote {
+  padding-left: 1em;
+
+}
+
+html.dark span.source .zk {
+  color: white;
+}
+
+html.dark blockquote::before {
+    color: var(--dark2);
+}
+
+html.dark ol.big li {
+  border-color: #00441d;
+}
+html.dark a {
+    text-decoration: underline;
+    color: white;
+}
+html.dark a:hover {
+    color: white;
+}
+
+html.dark .reader-index > div, 
+html.dark .language-index > div,
+html.dark #social,
+html.dark div.reader,
+html.dark #sub-nav {
+    background: black;
+    color: white;
+}
+
+html.dark .language-index a {
+  text-decoration: none;
+}
+
+html.dark .language-index a:hover span.t {
+  text-decoration: underline;
+}
+
+html.dark.reader-win #site-wrapper {
+  opacity: .4;
+  background: black;
+}
+html.dark .language-index > div a span.l {
+  color: white;
+  opacity: .6;
+}
+html.dark .language-index > div a span.c {
+  color: white;
+}
+html.dark .gdpr-i a.close,
+html.dark #orgindex > div > div.info > a.title,
+html.dark .foot > .regions > a,
+html.dark .foot > .tags > a,
+html.dark .foot > .options > a,
+html.dark .contact > div.phone a,
+html.dark .contact > div.email a,
+html.dark .contact > div.web a
+ {
+  text-decoration: none;
+}
+html.dark .foot > .options > a, 
+html.dark .foot > .tags > a {
+  border-color: #363636;
+}
+html.dark .foot > .regions 
+
+html.dark #orgindex > div > div.info > a.title:hover,
+html.dark #orgindex > div > a.img:hover + .info a.title {
+  color: white;
+  text-decoration: underline;
+}
+
+html.dark #footer a:hover, 
+html.dark .gdpr-i a.close, 
+html.dark .navigation li.current-tab a, 
+html.dark .quote a,
+html.dark .quote:hover .desc,
+html.dark #sub-nav li.submenu > a span.menu, 
+html.dark #sub-nav.isSticky li.submenu > a span.menu,
+html.dark div.reader > div.status span.chapter, 
+html.dark div.reader > div.status span.subchapter,
+html.dark .reader-index ul li a, 
+html.dark #social a,
+html.dark .language-index a,
+html.dark .reader-index ul li.active a, 
+html.dark .reader-index ul li a span.text,
+html.dark .reader-index ul li.active a span.text,
+html.dark .reader-index ul li a span.num,
+html.dark h1, 
+html.dark h2, 
+html.dark h3, 
+html.dark h4, 
+html.dark h5, 
+html.dark h6,
+html.dark .quote .source,
+html.dark .quote .lnk, 
+html.dark .quote .source a, 
+html.dark ol.questions .arg,
+html.dark footer#footer,
+html.dark footer#footer a,
+html.dark #footer .phi,
+html.dark #footer .phi .dot,
+html.dark #gdpr-w,
+html.dark .popup-w,
+html.dark .gdpr-i .layer div.info > a.antiscience,
+html.dark .gdpr-i .layer div.info > a.antiscience > span .lnk,
+html.dark .psy-logo > span:last-child,
+html.dark #orgindex > div > div.info .desc, 
+html.dark .foot > .tags > a,
+html.dark .contact > div.addr > .city,
+html.dark blockquote.footnote > div > a.ref > span,
+html.dark .politician-questions p .politician,
+html.dark blockquote > .quote.expandlink {
+  color: white;
+}
+html.dark #gdpr-w,
+html.dark .popup-w {
+  background: #000;
+}
+html.dark .img-caption > a > span, 
+html.dark .img-caption > span,
+html.dark span.dennett {
+  color: #fff;
+  opacity: .7;
+}
+
+html.dark .img-caption > a,
+html.dark #gdpr-w .tabbed a,
+html.dark .popup-w .tabbed a,
+html.dark .gdpr-i .layer div.info > a.antiscience,
+html.dark blockquote.footnote > div > a.ref {
+  text-decoration: none;
+}
+html.dark #gdpr-w .tabbed a:hover,
+html.dark .popup-w .tabbed a:hover {
+  text-decoration: underline;
+}
+html.dark .popup-w ul.tabbed.support {
+  margin-top: 1em;
+}
+
+    html.dark .popup-w.menu .layer {
+      background-image:url('/images/forest.png');
+    }
+html.dark footer#footer,
+html.dark footer#footer a {
+  background: transparent;
+  text-decoration: none;
+}
+
+html.dark a.zk, 
+html.dark .quote .lnk, 
+html.dark .quote .source a {
+  font-weight: bold;
+}
+
+html.dark .quote .source .pdf {
+  font-weight: normal;
+}
+html.dark span.nature,
+html.dark .psy-logo > span:first-child {
+  color: #77b255;
+}
+
+html.dark .reader-index ul li a,
+html.dark .quote,
+html.dark .quote a {
+  text-decoration: none;
+}
+html.dark .reader-index ul li a:hover,
+html.dark .quote:hover,
+html.dark .quote:hover a,
+html.dark .quote:hover .lnk {
+  text-decoration: underline;
+}
+
+html.dark div.reader > div.status > div.next span.subchapter {
+  opacity: .8;
+}
+
+html.dark div.reader > a.index-btn svg {
+  fill: #fff;
+}
+
+    html.dark .reader-container.show-index div.reader > a.index-btn svg{
+      fill: #e1f3db;
+    }
+
+html.dark .reader-index > div, 
+html.dark #social,
+html.dark .language-index > div,
+html.dark .reader-index ul li,
+html.dark div.reader,
+html.dark #sub-nav,
+html.dark #top,
+html.dark .quote .source,
+html.dark footer#footer,
+html.dark .searchbox {
+  border-color: #f0f3e947;
+}
+html.dark ul.highlights li, 
+html.dark ul.questions li {
+  border-color: #f0f3e947;  
+}
+
+
+html.dark .multi-select .option:active,
+html.dark .multi-select .option:focus,
+html.dark .searchbox,
+html.dark .searchbox .autocomplete > a:hover {
+  background-color: transparent;
+}
+
+div.reader > div.buttons a,
+html.dark #logo > div:last-child a {
+  text-decoration: none;
+}
+
+ html.dark .quote,
+ html.dark .gmo-example {
+  border-color: white;
+}
+
+ html.dark .quote:hover {
+  border-color: #3da508;
+}
+
+html.dark .quote.red, 
+html.dark blockquote.red {
+  border-color: #900;
+}
+html.dark blockquote.red {
+  background-color: #000000d4;
+}
+
+html.dark .invert {
+  filter: invert(1);
+}
+  
+
+    html.dark div.reader > div.status > div.next span.chapter {
+      opacity: 0.7;
+    }
+    html.dark .reader .status > .next.no-next a.next, 
+    html.dark .reader .status > .next.no-prev a.prev {
+        color: white;
+        opacity: 0.5;
+    }
+
+  html.dark .scientistquotes .expandlink > span.sources > span,
+  html.dark .scientistquotes .expandlink > span.title,
+  html.dark .gmo-example .txt .h {
+    color: white;
+    text-decoration: underline;
+  }
+  html.dark .gmo-example {
+    text-decoration: none;
+  }
+  html.dark .gmo-example .adl .r {
+    background: white;
+  }
+  html.dark .gmo-example .adl {
+    color: white;
+  }
+
+  html.dark div.donate-big .donate a,
+  html.dark .gmobanner {
+    text-decoration: none;
+  }
+  html.dark .gmobanner .head > span {
+    color: white;
+    text-decoration: underline;
+  }
+
+  html.dark .free-ebook {
+    border-color:transparent;
+  }
+  html.dark .free-ebook .dl {
+    color: white;
+    text-decoration: underline;
+  }
+  html.dark .free-ebook .absurd {
+    color: white;
+  }
+  html.dark .free-ebook .notl {
+    text-decoration: none;
+  }
+
+  html.dark .quote.veterans {
+    border-color: #900;
+  }
+  html.dark span.veterans {
+    color: #bd0000;;
+  }
+
+    
+
+    html.dark .quote .source a {
+      color: white;
+      text-decoration: underline;
+    }
+
+
+    html.dark blockquote.overview {
+        color:white;
+        border-left-color: #fff;margin-left: 0;
+    }
+    html.dark .overview p {
+      color: #fff;
+    }
+    html.dark blockquote.overview img.round {
+        border-color: #fff;
+    }
+    html.dark blockquote.overview .quote .lnk {
+         color: white;
+    }
+
+    html.dark .quote.overview {
+        border-color: #fff;
+    }
+    html.dark .quote.overview .lnk {
+        color: #fff;
+    }
+
+    html.dark img.round,
+    html.dark img.bordered {
+      border-width: 0;
+      background: transparent;
+      border-color: white;
+    }
+
+
+    html.dark hr {
+      border-color: #363636;
+    }
+
+    html.dark .rabo {
+      color: white;
+    }
+
+    html.dark .main {background: #00000082;}
+
+
+    html.dark a.chapter-link > sup {
+        font-weight: bold;
+          color: white;
+    }
+    html.dark a.chapter-link > span {
+        text-decoration: underline;
+    }
+    html.dark a.chapter-link {
+        text-decoration: none;
+    }
+    html.dark a.chapter-link:hover > sup {
+          color: #079c2d;
+    }
+    html.dark .gmodebate-banvideo span.watch > span {
+      color: white;
+    }
+    html.dark .gmodebate-banvideo {
+      text-decoration: none;
+    }
+    html.dark .gmodebate-banvideo:hover span.watch > span {
+      color: #079c2d;
+    }
+
+    html.dark blockquote > .quote.foot, 
+    html.dark blockquote > .quote:last-child {
+      border-top-color: #363636;
+    }
+    html.dark #sub-nav.isSticky li.current-tab a {
+        border-right-color: #f0f3e947;
+    }
+
+
+
+      html.dark .darkswitch > span > span.light {
+        background:transparent;
+      }
+      html.dark .darkswitch > span > span.dark {
+        background-color: #fff;
+      }
+
+      html.dark .darkswitch > span {
+        border-color: #f0f3e947;
+      }
+      html.dark .darkswitch > span > span.light svg {
+        fill:white;
+      }
+
+
+html.dark #sub-nav a {
+ background-image: linear-gradient(#fff,#fff),linear-gradient(hsla(0,0%,100%,0),hsla(0,0%,100%,0)),linear-gradient(#fff,#fff); 
+}
+html.dark #sub-nav li.submenu a {
+ background-image: none;
+}
+
+
+html.dark #sub-nav li.submenu > a > svg {
+    stroke:white;
+}
+html.dark #sub-nav li.submenu > a:hover > svg {
+    stroke:white;
+}
+
+html.dark .popup-w h3 {
+  font-weight: bold;
+}
+html.dark .fa-twitter::before {
+  color:white;
+}
+
+html.dark .popup-w ul.tabbed li > a {
+  text-shadow:none;
+  filter:none;
+}
+html.dark .popup-w ul.tabbed.nature li > a,
+html.dark .popup-w ul.tabbed.contact li > a,
+html.dark .popup-w ul.tabbed.support li > a {
+  text-shadow:none;
+  filter: drop-shadow(0 0 10px #ffffff7a);
+}
+html.dark .popup-w ul.tabbed li.mh17 a:first-child {
+      border-color: #363636;
+    }
+
+    html.dark a.peace > span.mac > span > span span.do {
+      color: white;
+    }
+
+    html.dark a.peace > span.mac > span > span span.what {
+      color: white;
+    }
+    html.dark a.peace > span.mac > span {
+      background: transparent;
+    }
+    html.dark a.peace:hover > span.mac > span > span span.what {
+      text-decoration: underline;
+    }

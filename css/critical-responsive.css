@@ -1,0 +1,27 @@
+
+@media (max-width:767px) {
+  
+  .center768 {
+    float: none!important;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto 1em!important
+  }
+  .center768.center-mb {
+  	margin-bottom: var(--margin-bottom)!important;
+  }
+}
+
+@media (max-width:500px) {
+  .center500 {
+    float: none!important;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto 1em!important
+  }
+  .center500.center-mb {
+  	margin-bottom: var(--margin-bottom)!important;
+  }
+}

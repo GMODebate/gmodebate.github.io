@@ -1,0 +1,85 @@
+
+    div.thankyou {
+        border: solid 8px #e1f3db;
+        padding: 1em;
+        margin-bottom: 1em;
+    }
+    div.thankyou h1 {
+        margin-bottom: 15px;
+    }
+    div.thankyou p {
+        text-align: center;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    form.comment {
+        border: solid 8px #e1f3db;
+        padding: 1em;
+        margin-bottom: 1em;
+    }
+    form.comment > p {
+        margin-bottom: 0;
+    }
+    form.comment textarea {
+        border: solid 4px #e1f3db;
+        font-family: Montserrat, sans-serif;    
+        font-size: 20px;
+        line-height: 24px;
+        padding: 10px;
+        width: 100%;
+        height: 100px;
+        background: transparent;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    form.comment input[type="email"] {
+        border: solid 4px #e1f3db;
+        font-family: Montserrat, sans-serif;    
+        font-size: 18px;
+        line-height: 22px;
+        padding: 10px;
+        width: 100%;
+        background: transparent;
+        border-radius: 5px;
+        flex:1;
+    margin-bottom: 1em;
+    }
+    #who + form.comment {
+        margin-top: 2.5em;
+    }
+    form.comment.error {
+        border-color: #8a1f11;
+    }
+    form.comment.error input[type="email"],
+    form.comment.error textarea {
+        border-color: #8a1f11;
+    }
+    form.comment + .donate-big,
+    .thankyou  + .donate-big {
+  margin-top: 3em;
+}
+
+form.comment button {
+    background: #007934;
+color: white;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+border-radius: 5px;
+}
+
+html.dark form.comment {
+    border-color: transparent;
+}
+html.dark form.comment textarea,
+html.dark form.comment input[type="email"] {
+    border-color: white;
+    color: white;
+}
+html.dark form.comment button {
+    background: white;
+    color: black;
+}
+html.dark form.comment.error {
+    background: transparent;
+}

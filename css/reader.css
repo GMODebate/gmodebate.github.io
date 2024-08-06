@@ -1,0 +1,639 @@
+:root {
+  --readerbar: #f1f9ef;
+  --readerbarfill: #007934;
+}
+
+html.reader-win,html.reader-win body {
+	overflow: hidden;
+}
+#site-wrapper {
+	transition: opacity .1s ease-in-out;
+}
+
+html.reader-win #site-wrapper {
+	opacity: .4;
+	background: white;
+  filter:grayscale(1)
+}
+
+    div.reader-container {
+      width: 100%;
+      position: fixed;
+      bottom: 0;
+      left:0;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      user-select: none;
+      z-index: 9996;
+    }
+
+    div.reader {
+      max-width: 1040px;
+      width: 100%;
+      height: 50px;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      padding-right: 0;
+      box-sizing: border-box;
+      z-index: 9997;
+      user-select: none;
+      border-top: solid 4px #f1f9ef;
+      border-image-source: linear-gradient(to right, var(--readerbarfill) 0%, var(--readerbar) 0%);
+      border-image-slice: 10;
+      border-image-width: 2px 0 0 0;
+
+    }
+    div.reader > a.index-btn {
+      width: 50px;
+      height: 50px;
+      display: block;
+      user-select: none;
+    }
+    div.reader > a.index-btn svg {
+      fill:#000;
+      transition: fill .1s ease-in-out;
+    }
+	  .reader-container.show-index div.reader > a.index-btn svg{
+	    fill: #007934;
+	  }
+	  div.reader > a.index-btn:hover svg {
+	  	opacity: .9;
+	  }
+    div.reader > a.index-btn svg {
+    	width: 50px;
+      height: 50px;
+    }
+    div.reader > div.status {
+      padding-left: 5px;
+      user-select: none;
+      flex:1;
+      white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+    }
+    div.reader > div.status a,
+    div.reader > div.status > div {
+      white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+    }
+    div.reader > div.status span.sep {
+      color: #e1f3db;
+    }
+    div.reader > div.status > div.next {
+      font-size: 14px;
+      line-height: 18px;
+    }
+    div.reader > div.status > div.cur {
+      font-size: 18px;
+      line-height: 22px;
+    }
+    div.reader > div.status span.chapter,
+    div.reader > div.status span.subchapter {
+      font-family: Merriweather, serif;
+      color: #333;
+      user-select: none;
+      text-decoration: none;
+      cursor: default;
+    }
+    div.reader > div.status span.chapter {
+      font-weight: bold;
+    }
+    div.reader > div.status span.subchapter {
+      font-style: italic;
+    }
+    div.reader > div.status > div.next span.subchapter {
+      color: #000;
+	font-style: italic;
+	opacity: 0.4;
+    }
+    div.reader > div.status > div.next span.chapter {
+      margin-left: 10px; 
+      color: #000;
+		font-style: italic;
+		opacity: 0.6;
+    }
+
+    div.reader > div.status > div.next.same-chapter span.subchapter {
+      margin-left: 10px;
+    }
+    div.reader > div.status > div > span.lbl {
+      color: #555;
+    }
+    div.reader > div.buttons {
+      display: flex;
+      gap:10px;
+      margin-top: -2px;
+    }
+    div.reader > div.buttons a {
+    	font-size: 24px;
+    	line-height: 28px;
+    	margin-left: 2px;
+    }
+    
+    div.reader > div.buttons a img {
+      background:transparent;
+    	width:34px;
+      height:34px;
+      vertical-align: middle;
+    }
+    .reader .status > .next.no-next a,
+    .reader .status > .next.no-prev a {
+    	transition: color .4s ease-in-out;
+    }
+
+  .reader .status .cur.no-subchapter .sep,
+  .reader .status .cur.no-subchapter .subchapter {
+    display: none;
+  }
+  .reader .status > .next.no-subchapter span.chapter + .sep,
+  .reader .status > .next.no-subchapter .subchapter {
+    display: none;
+  }
+
+  .reader .status > .next.no-prev a.prev + .sep,
+  .reader .status > .next.no-next a.prev + .sep {
+    /*display: none;*/
+  }
+
+  .reader .status > .next.no-next a.next,
+  .reader .status > .next.no-prev a.prev {
+    color: #777;
+    cursor: default;
+    text-decoration: none;
+  }
+  .reader .status > .next.no-next span.chapter,
+  .reader .status > .next.no-next span.subchapter,
+  .reader .status > .next.no-next span.chapter + .sep {
+    display: none;
+  }
+  .reader .status > .next.same-chapter span.chapter,
+  .reader .status > .next.same-chapter span.chapter + .sep {
+    display: none;
+  }
+  div.reader.nochapters > .status,
+  div.reader.nochapters > .index-btn {
+    display: none;
+  }
+  div.reader.nochapters > .buttons {
+  	flex:1;
+  	text-align: right;
+    justify-content: end;
+  }
+
+  .reader-index {
+    max-width: 1040px;
+      width: 100%;
+      display: none;
+      justify-content: flex-start;
+      font-family: Merriweather, serif;
+      z-index: 9997;
+
+      user-select: none;
+  }
+  .reader-container.show-index .reader-index {
+    display: flex;
+  }
+  
+  .reader-index > div {
+    background: white;
+    border-right:solid 4px #f1f9ef;
+    border-top:solid 4px #f1f9ef;
+    border-top-right-radius: 5px;
+    padding:10px;
+    max-height: 70vh;
+    max-height: calc(100vh - 150px);
+    overflow: auto;
+    animation: slideUp .2s ease-out forwards;
+      user-select: none;
+  }
+
+  .reader-index > div #reader-index {
+    margin-bottom: 40px;
+  }
+  .reader-index.no-download > div.ebook-download {
+    display: none;
+  }
+  .reader-index.no-download > div #reader-index {
+    margin-bottom: 0px;
+  }
+
+.reader-index ul {
+list-style: none;
+margin-left: 0;
+padding-left: 5px;
+margin-bottom: 0;
+font-size: 18px;
+line-height: 24px;
+}
+
+.reader-index > div > ul {
+    margin-bottom: 0;
+}
+.reader-index > div > ul ul {
+  
+}
+
+.reader-index ul li {
+ margin-bottom: 2px;
+padding-bottom: 2px;
+    border-bottom: solid 1px #f0f3e9;
+    position: relative;
+  margin-bottom: 5px;
+padding-bottom: 5px;
+display: block;
+padding-right: 10px;
+}
+.reader-index ul li a { 
+  display: flex;
+}
+
+
+.reader-index ul li.chapter {
+  font-size: 20px;
+  line-height: 28px;
+  margin-top: 7px;
+  margin-bottom: 5px;
+}
+
+.reader-index ul li.chapter:first-child {
+  margin-top: 0;
+}
+.reader-index ul li.subchapter,
+.reader-index ul li.subchapter.reader-link.l1 {
+  font-size: 18px;
+  line-height: 24px;
+  padding-left: 5px;
+  padding-bottom: 2px;
+  margin-bottom: 5px;
+}
+.reader-index ul li.subchapter.reader-link {
+  font-size: 14px;
+  line-height: 18px;
+}
+.reader-index ul li.subchapter.l2,
+.reader-index ul li.subchapter.reader-link.l2 {
+  font-size: 16px;
+  line-height: 20px;
+}
+.reader-index ul li.subchapter.chaptersize {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+
+.reader-index ul li.active a,
+.reader-index ul li.active a span.text { 
+  font-weight: bold;
+  color: black;
+}
+.reader-index ul li a span { 
+  cursor: pointer;
+}
+.reader-index ul li a span.num { 
+  width: 30px;
+  text-align: right;
+  color: black;
+  display: block;
+  flex-basis: 30px;
+}
+.reader-index ul li a span.num + span.num { 
+  width: auto;
+  flex-basis: auto;
+  text-align: left;
+}
+.reader-index ul li a span.text { 
+  margin-left: 7px;
+  flex:1;
+  overflow: hidden;
+text-overflow: ellipsis;
+display: block;
+white-space: nowrap;
+color: #333;
+}
+.reader-index ul li a span.text img.macgyver {
+  height: 50px;width:50px;margin-right: 10px;margin-bottom: 0px;
+}
+.reader-index ul li a span.text em.macgyver {
+  display: block;font-weight: normal;white-space: nowrap;overflow: hidden;text-overflow: ellipsis
+}
+
+.reader-index ul li.carol a span.text em.macgyver {
+  font-size: 18px;
+  line-height: 22px;  
+}
+
+.reader-index ul li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+.reader .gmo-butterfly,
+.reader-index .gmo-butterfly {
+	height: 1em;
+width: auto;
+vertical-align: middle;
+position: relative;
+top: -2px;
+}
+.reader .rabo,
+.reader-index .rabo {
+	color: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+	font-family: inherit;
+}
+
+
+.ebook-download {
+  display: flex;
+  padding: 3px;
+  gap: 5px;
+}
+.reader-index .ebook-download {
+  position: absolute;
+bottom: 50px;
+z-index: 999999;
+border-right: none;
+  border-top: none;
+  padding: 5px 5px;
+}
+.ebook-download > img {
+  width: 24px;
+  height: 24px;
+}
+.ebook-download > input {
+  border-radius: 3px;text-align: center;
+  font-size: 12px;
+  line-height: 24px;
+  height: 24px;
+  padding: 0;
+  max-width: 250px;
+}
+.ebook-popup h3 {
+  margin:0;
+}
+.ebook-popup p {
+  padding-left: 0;
+}
+.ebook-popup .ebook-download > input {
+  font-size: 16px;
+  height: unset;
+}
+.ebook-popup .ebook-download > input.error {
+  margin:0;
+  border-color: red;
+  color:red;
+}
+.ebook-popup .ebook-download {
+  margin-bottom: 10px;
+}
+.ebook-popup .ebook-download > img {
+  width: 38px;
+  height: 38px;
+}
+.ebook-popup .ebook-download > button {
+  height: unset;
+  font-size: 16px;
+}
+.ebook-popup .ebook-download > .spinner {
+  display: none;
+  width: 30px;
+}
+.ebook-popup .ebook-download.loading > .spinner {
+  display: block
+}
+
+.ebook-popup .direct-download {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.ebook-popup .direct-download a.button {
+  transition: background .1s,color .1s;
+  white-space: nowrap;
+  border: none;
+  border-radius: 3px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 10px 20px;
+  background: #efefef;
+  color: black;
+  font-size: 16px;
+  line-height: 24px;
+  box-sizing: border-box;
+}
+.ebook-popup .direct-download a.other {
+  font-size: 18px;
+  line-height: 22px;
+}
+.ebook-popup .sendto {
+  display: flex;
+  align-items: center;
+}
+html.dark .ebook-popup .direct-download a.button {
+  background:white;
+  color:black;
+}
+
+html.dark .ebook-download > input::placeholder {
+  color:white;
+}
+.ebook-download > button {
+  transition: background .1s,color .1s;
+padding: 5px 1em;
+  white-space: nowrap;
+  background: #e1f3db;color: #000;border: none;border-radius: 3px;font-size: 16px;line-height: 22px;text-transform: uppercase;cursor: pointer;padding-left: 10px;padding-right: 10px;
+  font-size: 12px;
+  line-height: 24px;
+  height: 24px;
+  box-sizing: border-box;
+  padding: 0px 10px;
+}
+html.dark .ebook-download > button {
+  background:white;
+  color: #000;
+}
+.ebook-download > button:hover,
+.ebook-popup .direct-download a.button:hover {
+  background: #007934;
+  color: #fff;
+}
+html.dark .ebook-download > button:hover,
+html.dark .ebook-popup .direct-download a.button:hover {
+  background: #e1f3db;
+  color: #000;
+}
+
+
+  [dir="rtl"] .reader-index > div { 
+  	border-right:0;
+  	border-left:solid 4px #f1f9ef;
+    border-top-right-radius: 0;
+    border-top-left-radius: 5px;
+  }
+  [dir="rtl"] .reader-index ul li a span.text {
+  	margin-left: 0;
+  	margin-right: 7px;
+  }
+
+  [dir="rtl"] .reader-index ul li a span.num {
+  	text-align: left;
+  }
+
+  [dir="rtl"] .reader-index ul li {
+  	padding-left: 10px;
+  	padding-right: 0;
+  }
+
+  [dir="rtl"] div.reader > div.status > div.next span.chapter {
+  	margin-right: 10px;
+  	margin-left: 0;
+  }
+  [dir="rtl"] div.reader > div.status > div.next.same-chapter span.subchapter {
+  	margin-right: 10px;
+  	margin-left: 0;
+  }
+
+  [dir="rtl"] div.reader > div.buttons a {
+  	margin-right: 2px;
+  	margin-left: 0;
+  }
+
+
+.social-index {
+    max-width: 1040px;
+    width: 100%;
+    display: none;
+    justify-content: flex-end;
+    font-family: Merriweather, serif;
+    z-index: 9997;
+    user-select: none;
+}
+.reader-container.show-social .social-index {
+  display: flex;
+}
+  .social-index > div {
+    background: white;
+    border-left:solid 4px #f1f9ef;
+    border-top:solid 4px #f1f9ef;
+    border-top-left-radius: 5px;
+    padding:5px 10px;
+    max-height: 70vh;
+    max-height: calc(100vh - 150px);
+    animation: slideUp .2s ease-out forwards;
+      user-select: none;
+  }
+
+
+.language-index {
+    max-width: 1040px;
+    width: 100%;
+    display: none;
+    justify-content: flex-end;
+    font-family: Merriweather, serif;
+    z-index: 9997;
+    user-select: none;
+}
+.reader-container.show-lg .language-index {
+  display: flex;
+}
+
+  .language-index > div {
+    background: white;
+    border-left:solid 4px #f1f9ef;
+    border-top:solid 4px #f1f9ef;
+    border-top-left-radius: 5px;
+    padding:5px 10px;
+    max-height: 70vh;
+    max-height: calc(100vh - 150px);
+    overflow: auto;
+    animation: slideUp .2s ease-out forwards;
+      user-select: none;
+      display: flex;
+      flex-direction: column;
+  }
+  .language-index > div  a {
+  	display: flex;
+  	justify-content: flex-end;
+  	align-items: center;
+  }
+  .language-index > div  a span.f {
+  	margin-left: 5px;
+  	display: block;
+  }
+  .language-index > div  a span.c {
+  	color: #333;
+	font-size: 12px;
+	margin-left: 5px;
+	display: block;
+	text-transform: uppercase;
+	width: 18px;
+	text-align: center;
+  }
+  .language-index > div  a span.l {
+  	color: #777;
+	margin-right: 5px;
+	display: block;
+	font-style: italic;
+  }
+
+  [dir="rtl"] .language-index > div { 
+  	border-left:0;
+  	border-right:solid 4px #f1f9ef;
+    border-top-left-radius: 0;
+    border-top-right-radius: 5px;
+  }
+  [dir="rtl"] .language-index > div  a span.f {
+  	margin-left: 0;
+  	margin-right: 5px;
+  	display: block;
+  }
+  [dir="rtl"] .language-index > div  a span.c {
+  	margin-right: 5px;
+  	margin-left: 0;
+  }
+
+@media screen and (max-width: 767px) {
+	#select-lg {
+		display: none;
+	}
+  .reader-index > div {
+    border-right: none;
+    width: 100%;
+    border-radius: 0;
+  }
+}
+@media screen and (max-width: 1040px) {
+	div.reader > a.index-btn {
+		margin-left: 10px;
+	}
+  div.reader > div.buttons {
+    margin-right: 10px;;
+  }
+}
+
+@media print {
+	
+	div.reader-container,
+	div.reader {
+		display: none;
+	}
+	
+}
+@keyframes slideUp {
+ 0% {
+   transform: translateY(50%);
+   opacity: .7;
+ }
+ 100% {
+   transform: translateY(0);
+   opacity: 1;
+ }
+}
