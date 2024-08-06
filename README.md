@@ -1,4 +1,4 @@
-# 🦋 GMODebate.org's eBook Collection
+# 🦋 GMODebate.org's eBook Collection 
 
 Welcome to the GitHub repository for the eBook archive of GMODebate.org. This archive represents years of philosophical inquiry and investigative work into topics ranging from eugenics to the 9/11 Truth movement.
 
