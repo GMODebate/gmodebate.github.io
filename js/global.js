@@ -1054,20 +1054,26 @@
                         'callback': function(token, email) {
                             email = emailEl.value.trim();
                             if (email === '') {
-                                SET_CLASS(emailEl, 'error');
+                                SET_CLASS(form, 'loading', true);
+                                document.location.href = downloadUrl;
+                                return;
+                                /*SET_CLASS(emailEl, 'error');
                                 ADD_EVENT_ONCE(['keypress', 'change'], function() {
                                     SET_CLASS(emailEl, 'error', true);
                                 }, emailEl);
                                 SET_CLASS(form, 'loading', true);
-                                return emailEl.focus();
+                                return emailEl.focus();*/
                             }
 
                             DOWNLOAD_EMAIL(email, token, function() {
                                 SET_CLASS(form, 'loading', true);
                                 document.location.href = downloadUrl;
                             });
+                        },
+                        'error-callback': function() {
+                            SET_CLASS(form, 'loading', true);
+                            //document.location.href = downloadUrl;
                         }
-                        //callback
                     });
 
                     // move back
@@ -1271,8 +1277,12 @@
         });
     }
 
+    var email_sending = false;
     function DOWNLOAD_EMAIL(email, token, callback, reading) {
-
+        if (email_sending) {
+            return;
+        }
+        email_sending = true;
         // get 
         /*toc = CLONE_ELEMENT(QUERY('.reader-container .reader-index'));
         REMOVE(QUERY('.ebook-download', toc));
@@ -1342,26 +1352,29 @@
         formData.append('url', doc.location.href.toString());
         formData.append('g-recaptcha-response', token);
 
-        fetch('/book.php', {
+        fetch('https://email.gmodebate.org/', {
             "method": "POST",
             body: formData
         }).then(function(data) {
-
+            
             data.json().then(function(data, completed, qr) {
+                if (callback) {
+                    callback();
+                }
                 if (data && data.error) {
                     ERROR(data);
-                    alert(data.error);
+                    //alert(data.error);
                 } else if (data && data.ok) {
-                    if (callback) {
-                        callback();
-                    }
+                    
                 } else {
                     ERROR(data);
-                    return alert('Unknown error with submission to backend.');
+                    //return alert('Unknown error with submission to backend.');
+                    
                 }
             }).catch(function(err) {
                 ERROR(err);
-                return alert('Our backend returned an invalid response: ' + err.toString());
+                //return alert('Our backend returned an invalid response: ' + err.toString());
+                
             });
         });
     }
@@ -1829,6 +1842,7 @@
             return document.createTextNode(txt);
         }
     }
+
     async function DO_RESOLVE_IMAGE(el, callback, i, slugdir, dark, src, dark_resolved, shape) {
         i = GET_ATTR(el, 'data-z');
         shape = HAS_CLASS(el, 'shape');
@@ -1837,11 +1851,13 @@
             if (dark) {
                 i = dark;
             }
-            var src = WEBP_REWRITE(i, el, function(err, src) {
+            var nowebp = HAS_ATTR(el, 'data-z-nowebp');
+
+            var src = (!nowebp) ? WEBP_REWRITE(i, el, function(err, src) {
                 if (callback) {
                     callback(err, src);
                 }
-            }, true);
+            }, true) : i;
             if (!src) {
                 src = 'SRC_EMPTY';
             }

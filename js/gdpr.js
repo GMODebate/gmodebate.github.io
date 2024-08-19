@@ -124,8 +124,11 @@ window.gdpr = (function(win, doc) {
 
     var consent = getCookie();
     if (!consent) {
-        (win.adsbygoogle = win.adsbygoogle || []).pauseAdRequests;
-        acceptConsent(1);
+        //(win.adsbygoogle = win.adsbygoogle || []).pauseAdRequests;
+        //acceptConsent(1);
+
+        // removed
+        acceptConsent();
     } else {
         acceptConsent();
     }
