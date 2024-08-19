@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gmodebate.github.io/hr/sitemap.xml
+Sitemap: https://hr.gmodebate.org/sitemap.xml
