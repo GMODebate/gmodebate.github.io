@@ -3,7 +3,7 @@
 This repository contains a Github Pages backup of GMODebate.org.
 
 - GMODebate.org: [https://gmodebate.org/](https://gmodebate.org/)
-- Gitlab Pages: [https://gmodebate.github.io/](https://gmodebate.github.io/)
+- Github Pages: [https://gmodebate.github.io/](https://gmodebate.github.io/)
 
 ### 🇬 Google's Corruption for 👾 AI Life
 [https://mh17truth.org/google/](https://mh17truth.org/google/) | An Investigation of Google
