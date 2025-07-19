@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?><OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName><![CDATA[🦋 GMODebate.org]]></ShortName>
+  <Description><![CDATA[🦋 GMODebate.org]]></Description>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">https://gmodebate.github.io/i/icons/512x512.png</Image>
+  <Url type="text/html" template="https://gmodebate.github.io/#🔍{searchTerms}"/>
+  <Query role="example" searchTerms="🦋 GMODebate.org"/>
+  <AdultContent>false</AdultContent>
+  <Language>en_US</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

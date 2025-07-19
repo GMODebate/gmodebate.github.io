@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gmodebate.github.io/sk/sitemap.xml
+Sitemap: https://gmodebate.github.io/sk/llms.txt
