@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Critical Investigations: Eugenics, Scientism and "Anti-Science"](/investigations/)
-> An overview of investigations on GMODebate.org.
+[Введение](/)
+> Исследовательский проект, углубляющийся в философские основы евгеники, сциентизма, движения «эмансипации науки от философии», нарратива «анти-науки» и современных форм научной инквизиции.
 
-[Introduction](/)
-> A research project that delves into the philosophical underpinnings of eugenics, scientism, the "emancipation-of-science from philosophy" movement, the "anti-science narrative" and modern forms of scientific inquisition.
+[Критические исследования: Евгеника, Сциентизм и «Антинаука»](/investigations/)
+> Обзор исследований на GMODebate.org.
 
 ## Articles
-
-[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
-> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
-
-[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
-> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
-
-[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
-> A critical examination of the philosophical roots and history of eugenics.
 
 [🇵🇭 Philippines GMO Golden Rice: An "Anti-Science" Inquisition](/philippines/)
 > This investigative report exposes how local voices in Philippines were silenced, global attention for a 2024 Supreme Court GMO ban deflected to Greenpeace, and the 'anti-science' narrative weaponized against GMO opponents.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Brazil's GMO 🦟 Mosquito Disaster](/ecocide/)
 > This investigative report exposes the corruption behind Brazil's GMO mosquito disaster. The report reveals that the mosquitoes were engineered for insecticide resistance and significantly increased agression towards humans, resulting in a replacement of native mosquito species and a worsening of disease causation.
 
+[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
+> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
+
 [Mexico's GMO Corn Ban and "Following the Science" Rhetoric](/mexico/)
 > This investigative report exposes the hidden strategy behind Mexico's GMO ban. The report reveals how 'following the science' rhetoric is used to enforce GMO adoption against public will, revealing a pattern seen across multiple countries.
+
+[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
+> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
+
+[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
+> A critical examination of the philosophical roots and history of eugenics.
+
+[🟢 Moss Ball Ban](/moss-balls/)
+> In February 2021 the founder of 🦋 GMODebate.org posted a message on Houzz.com to request attention for the idea that plants are living creatures for which the concept <q>happiness</q> may be applicable. Later that month, a pet shop in Washington state sounded the alarm on a small 🦪 Ukrainian mollusk found on a moss ball, and shortly after, the banning of moss balls went viral.
 
 [On the Absurd Hegemony of Science | Debate of Scientism and 🧠⃤ Qualia with Daniel C. Dennett](/absurd-hegemony-science/)
 > A public debate of scientism and 🧠⃤ Qualia with philosophy professor Daniel C. Dennett.

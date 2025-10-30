@@ -66,34 +66,37 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Critical Investigations: Eugenics, Scientism and "Anti-Science"](/investigations/)
-> An overview of investigations on GMODebate.org.
+[Wprowadzenie](/)
+> Projekt badawczy zgłębiający filozoficzne podstawy eugeniki, scjentyzmu, ruchu „emancypacji nauki od filozofii”, narracji „anty-naukowej” oraz współczesnych form naukowej inkwizycji.
 
-[Introduction](/)
-> A research project that delves into the philosophical underpinnings of eugenics, scientism, the "emancipation-of-science from philosophy" movement, the "anti-science narrative" and modern forms of scientific inquisition.
+[Krytyczne dochodzenia: Eugenetika, scjentyzm i „anty-nauka”](/investigations/)
+> Przegląd dochodzeń na GMODebate.org.
 
 ## Articles
 
-[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
-> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
+[🇵🇭 Filipiński GMO Złoty Ryż: „Antynaukowa” inkwizycja](/philippines/)
+> Niniejszy raport śledczy ujawnia, jak uciszono głosy lokalnej ludności na Filipinach, jak światową uwagę na zakaz GMO z 2024 roku Sądu Najwyższego skierowano na Greenpeace, oraz jak narratyw „antynaukowy” został użyty jako broń przeciwko przeciwnikom GMO.
 
-[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
-> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
+[Katastrofa GMO w Brazylii 🦟](/ecocide/)
+> Niniejszy raport śledczy ujawnia korupcję stojącą za katastrofą genetycznie modyfikowanych komarów w Brazylii. Dokumentacja wskazuje, że owady zmodyfikowano pod kątem odporności na insektycydy i znacząco zwiększonej agresji wobec ludzi, co doprowadziło do zastąpienia rodzimych gatunków komarów i nasilenia rozprzestrzeniania chorób.
 
-[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
-> A critical examination of the philosophical roots and history of eugenics.
+[Daniel C. Dennetta Publiczna Obrona Scjentyzmu i Odrzucenie ⃤ Qualia](/dennett/)
+> Dowód, że użytkownik forum "Faustus5" to Daniel C. Dennett w publicznej debacie na temat scjentyzmu i  🧠⃤ Qualia.
 
-[🇵🇭 Philippines GMO Golden Rice: An "Anti-Science" Inquisition](/philippines/)
-> This investigative report exposes how local voices in Philippines were silenced, global attention for a 2024 Supreme Court GMO ban deflected to Greenpeace, and the 'anti-science' narrative weaponized against GMO opponents.
+[Zakaz GMO w Meksyku i retoryka „podążania za nauką”](/mexico/)
+> Ten raport śledczy ujawnia ukrytą strategię stojącą za meksykańskim zakazem GMO. Raport pokazuje, jak retoryka „podążania za nauką” jest wykorzystywana do wymuszania adopcji GMO wbrew woli społeczeństwa, odsłaniając wzorzec obserwowany w wielu krajach.
 
-[Brazil's GMO 🦟 Mosquito Disaster](/ecocide/)
-> This investigative report exposes the corruption behind Brazil's GMO mosquito disaster. The report reveals that the mosquitoes were engineered for insecticide resistance and significantly increased agression towards humans, resulting in a replacement of native mosquito species and a worsening of disease causation.
+[Sri Lanka w 2021: "histeria anty-GMO" i gospodarczy upadek](/sri-lanka/)
+> Raport śledczy ujawnia korupcję stojącą za zakazem GMO na Sri Lance w 2021 roku i gospodarczym upadkiem kraju. Dokumentacja demaskuje taktyki ekonomicznego nacisku MFW, odzwierciedlające ujawnienia WikiLeaks dotyczące planowanych "wojen handlowych" z przeciwnikami GMO.
 
-[Mexico's GMO Corn Ban and "Following the Science" Rhetoric](/mexico/)
-> This investigative report exposes the hidden strategy behind Mexico's GMO ban. The report reveals how 'following the science' rhetoric is used to enforce GMO adoption against public will, revealing a pattern seen across multiple countries.
+[Eugenika w 🍃 Naturze: Studium Filozoficzne](/eugenics/)
+> Krytyczna analiza filozoficznych korzeni i historii eugeniki.
 
-[On the Absurd Hegemony of Science | Debate of Scientism and 🧠⃤ Qualia with Daniel C. Dennett](/absurd-hegemony-science/)
-> A public debate of scientism and 🧠⃤ Qualia with philosophy professor Daniel C. Dennett.
+[🟢 Zakaz Mchowej Kuli](/moss-balls/)
+> W lutym 2021 roku założyciel 🦋 GMODebate.org opublikował wiadomość na Houzz.com, zwracając uwagę na koncepcję, że rośliny są żywymi istotami, dla których pojęcie <q>szczęścia</q> może mieć zastosowanie. Później tego samego miesiąca sklep zoologiczny w stanie Washington zaalarmował o znalezieniu małego 🦪 ukraińskiego mięczaka na mchowej kuli, a wkrótce potem zakaz mchowych kul stał się viralem.
+
+[O Absolutnej Hegemonii Nauki | Debata o Scjentyzmie i 🧠⃤ Qualia z Danielem C. Dennettem](/absurd-hegemony-science/)
+> Publiczna debata o scjentyzmie i 🧠⃤ qualia z profesorem filozofii Danielem C. Dennettem.
 
 The 🦋 GMODebate.org project is part of a broader philosophical investigation of scientism, the philosophical root of 🧬 eugenics.
 

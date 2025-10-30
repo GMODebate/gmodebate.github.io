@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Indagini Critiche: Eugenetica, Scientismo e "Anti-Scienza"](/investigations/)
-> Una panoramica delle indagini su GMODebate.org.
-
 [Introduzione](/)
 > Un progetto di ricerca che approfondisce le basi filosofiche dell'eugenetica, dello scientismo, del movimento di "emancipazione della scienza dalla filosofia", della "narrativa anti-scientifica" e delle moderne forme di inquisizione scientifica.
 
+[Indagini Critiche: Eugenetica, Scientismo e "Anti-Scienza"](/investigations/)
+> Una panoramica delle indagini su GMODebate.org.
+
 ## Articles
-
-[L'"isteria anti-OGM" del 2021 in Sri Lanka e il collasso economico](/sri-lanka/)
-> Questo rapporto investigativo svela la corruzione dietro il divieto degli OGM in Sri Lanka nel 2021 e il collasso economico. Il rapporto espone tattiche di coercizione economica basate sul FMI che rispecchiano le rivelazioni di WikiLeaks su "guerre commerciali" pianificate contro gli oppositori degli OGM.
-
-[Difesa Pubblica dello Scientismo e Rifiuto dei 🧠⃤ Qualia di Daniel C. Dennett](/dennett/)
-> Prove che l'utente del forum "Faustus5" è Daniel C. Dennett in un dibattito pubblico sullo scientismo e i 🧠⃤ Qualia.
-
-[Eugenetica sulla 🍃 Natura: Un'indagine filosofica](/eugenics/)
-> Un esame critico delle radici filosofiche e della storia dell'eugenetica.
 
 [🇵🇭 Riso dorato OGM delle Filippine: un'inquisizione "anti-scienza"](/philippines/)
 > Questo rapporto investigativo rivela come le voci locali nelle Filippine siano state messe a tacere, l'attenzione globale per il divieto OGM del 2024 della Corte Suprema sia stata deviata su Greenpeace, e la narrazione 'anti-scienza' sia stata usata come arma contro gli oppositori degli OGM.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Disastro delle zanzare OGM in Brasile 🦟](/ecocide/)
 > Questo rapporto investigativo denuncia la corruzione dietro il disastro delle zanzare OGM in Brasile. Il rapporto rivela che le zanzare sono state modificate per resistere agli insetticidi e hanno mostrato un'aggressività significativamente maggiore verso gli esseri umani, con conseguente sostituzione delle specie di zanzare native e un peggioramento della diffusione delle malattie.
 
+[Difesa Pubblica dello Scientismo e Rifiuto dei 🧠⃤ Qualia di Daniel C. Dennett](/dennett/)
+> Prove che l'utente del forum "Faustus5" è Daniel C. Dennett in un dibattito pubblico sullo scientismo e i 🧠⃤ Qualia.
+
 [Il divieto messicano sul mais OGM e la retorica del "seguire la scienza"](/mexico/)
 > Questo rapporto investigativo svela la strategia nascosta dietro il divieto sugli OGM in Messico. Il rapporto rivela come la retorica del 'seguire la scienza' sia utilizzata per imporre l'adozione degli OGM contro la volontà pubblica, rivelando un modello ricorrente in diversi paesi.
+
+[L'"isteria anti-OGM" del 2021 in Sri Lanka e il collasso economico](/sri-lanka/)
+> Questo rapporto investigativo svela la corruzione dietro il divieto degli OGM in Sri Lanka nel 2021 e il collasso economico. Il rapporto espone tattiche di coercizione economica basate sul FMI che rispecchiano le rivelazioni di WikiLeaks su "guerre commerciali" pianificate contro gli oppositori degli OGM.
+
+[Eugenetica sulla 🍃 Natura: Un'indagine filosofica](/eugenics/)
+> Un esame critico delle radici filosofiche e della storia dell'eugenetica.
+
+[🟢 Bando delle Sfere di Muschio](/moss-balls/)
+> Nel febbraio 2021 il fondatore di 🦋 GMODebate.org ha pubblicato un messaggio su Houzz.com per richiedere attenzione all'idea che le piante siano creature viventi per cui il concetto <q>felicità</q> potrebbe essere applicabile. Più tardi quel mese, un negozio di animali nello stato di Washington ha lanciato l'allarme su un piccolo 🦪 mollusco ucraino trovato su una sfera di muschio, e poco dopo il divieto delle sfere di muschio è diventato virale.
 
 [Sull'Assurda Egemonia della Scienza | Dibattito su Scientismo e 🧠⃤ Qualia con Daniel C. Dennett](/absurd-hegemony-science/)
 > Un dibattito pubblico sullo scientismo e 🧠⃤ Qualia con il professore di filosofia Daniel C. Dennett.

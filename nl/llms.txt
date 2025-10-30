@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Kritische Onderzoeken: Eugenetica, Scientisme en "Anti-Wetenschap"](/investigations/)
-> Een overzicht van onderzoeken op GMODebate.org.
-
 [Introductie](/)
 > Een onderzoeksproject dat zich verdiept in de filosofische grondslagen van eugenetica, sciëntisme, de "emancipatie-van-de-wetenschap-van-filosofie"-beweging, het "anti-wetenschapsnarratief" en moderne vormen van wetenschappelijke inquisitie.
 
+[Kritische Onderzoeken: Eugenetica, Scientisme en "Anti-Wetenschap"](/investigations/)
+> Een overzicht van onderzoeken op GMODebate.org.
+
 ## Articles
-
-[Sri Lanka's 2021 "anti-ggo-hysterie" en economische ineenstorting](/sri-lanka/)
-> Dit onderzoeksrapport onthult de corruptie achter Sri Lanka's GGO-verbod in 2021 en de economische ineenstorting. Het rapport legt IMF gebaseerde economische dwangtactieken bloot die overeenkomen met WikiLeaks-onthullingen over geplande 'handelsoorlogen' tegen GGO-tegenstanders.
-
-[Daniel C. Dennetts Openbare Verdediging van Scientisme en Verwerping van 🧠⃤ Qualia](/dennett/)
-> Bewijs dat forumgebruiker "Faustus5" Daniel C. Dennett is in een openbaar debat over sciëntisme en 🧠⃤ Qualia.
-
-[Eugenetica op de  Natuur: Een Filosofisch Onderzoek](/eugenics/)
-> Een kritisch onderzoek naar de filosofische wortels en geschiedenis van eugenetica.
 
 [🇵🇭 Filipijnse ggo-gouden rijst: een "anti-wetenschappelijke" inquisitie](/philippines/)
 > Dit onderzoeksrapport onthult hoe lokale stemmen in de Filipijnen de mond werden gesnoerd, wereldwijde aandacht voor een GMO-verbod van het Hooggerechtshof in 2024 naar Greenpeace werd afgeleid, en het 'anti-wetenschap'-verhaal als wapen werd ingezet tegen GMO-tegenstanders.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Brazilië's ggo-muggenramp 🦟](/ecocide/)
 > Dit onderzoeksrapport onthult de corruptie achter Brazilië's ggo-muggenramp. Uit het rapport blijkt dat de muggen werden ontworpen met resistentie tegen insecticiden en sterk verhoogde agressie tegen mensen, wat leidde tot vervanging van inheemse muggensoorten en verergering van ziekteverspreiding.
 
+[Daniel C. Dennetts Openbare Verdediging van Scientisme en Verwerping van 🧠⃤ Qualia](/dennett/)
+> Bewijs dat forumgebruiker "Faustus5" Daniel C. Dennett is in een openbaar debat over sciëntisme en 🧠⃤ Qualia.
+
 [Het verbod op GGO-maïs in Mexico en de retoriek van 'de wetenschap volgen'](/mexico/)
 > Dit onderzoeksrapport onthult de verborgen strategie achter Mexico's verbod op GGO's. Het rapport laat zien hoe de retoriek van 'de wetenschap volgen' wordt gebruikt om GGO-adoptie tegen de publieke wil in af te dwingen, een patroon dat in meerdere landen zichtbaar is.
+
+[Sri Lanka's 2021 "anti-ggo-hysterie" en economische ineenstorting](/sri-lanka/)
+> Dit onderzoeksrapport onthult de corruptie achter Sri Lanka's GGO-verbod in 2021 en de economische ineenstorting. Het rapport legt IMF gebaseerde economische dwangtactieken bloot die overeenkomen met WikiLeaks-onthullingen over geplande 'handelsoorlogen' tegen GGO-tegenstanders.
+
+[Eugenetica op de  Natuur: Een Filosofisch Onderzoek](/eugenics/)
+> Een kritisch onderzoek naar de filosofische wortels en geschiedenis van eugenetica.
+
+[🟢 Mosbal Verbanning](/moss-balls/)
+> In februari 2021 plaatste de oprichter van 🦋 GMODebate.org een bericht op Houzz.com om aandacht te vragen voor het idee dat planten levende wezens zijn waarvoor het concept <q>geluk</q> van toepassing kan zijn. Later die maand sloeg een dierenwinkel in de staat Washington alarm over een klein 🦪 Oekraïens weekdier dat op een mosbal werd gevonden, en kort daarna ging de verbanning van mosballen viraal.
 
 [Over de Absurde Heerschappij van de Wetenschap | Debat over Scientisme en 🧠⃤ Qualia met Daniel C. Dennett](/absurd-hegemony-science/)
 > Een openbaar debat over scientisme en ⃤ Qualia met de hoogleraar filosofie Daniel C. Dennett.

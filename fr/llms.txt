@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Enquêtes Critiques : Eugénisme, Scientisme et "Anti-Science"](/investigations/)
-> Un aperçu des enquêtes sur GMODebate.org.
-
 [Introduction](/)
 > Un projet de recherche qui explore les fondements philosophiques de l'eugénisme, du scientisme, du mouvement d'« émancipation-de-la-science-de-la-philosophie », du « narratif anti-science » et des formes modernes d'inquisition scientifique.
 
+[Enquêtes Critiques : Eugénisme, Scientisme et "Anti-Science"](/investigations/)
+> Un aperçu des enquêtes sur GMODebate.org.
+
 ## Articles
-
-[Le Sri Lanka en 2021 : "hystérie anti-OGM" et effondrement économique](/sri-lanka/)
-> Ce rapport d'enquête révèle la corruption derrière l'interdiction des OGM au Sri Lanka en 2021 et l'effondrement économique. Il expose des tactiques de coercition économique basées sur le FMI qui reflètent les révélations de WikiLeaks concernant des "guerres commerciales" planifiées contre les opposants aux OGM.
-
-[Défense publique du scientisme et rejet des 🧠⃤ Qualia par Daniel C. Dennett](/dennett/)
-> Preuve que l'utilisateur du forum "Faustus5" est Daniel C. Dennett dans un débat public sur le scientisme et les 🧠⃤ Qualia.
-
-[Eugénisme sur la 🍃 Nature : Une enquête philosophique](/eugenics/)
-> Un examen critique des racines philosophiques et de l'histoire de l'eugénisme.
 
 [🇵🇭 Philippines OGM Riz Doré : une inquisition « anti-science »](/philippines/)
 > Ce rapport d'enquête révèle comment les voix locales aux Philippines ont été réduites au silence, comment l'attention mondiale sur l'interdiction des OGM par la Cour suprême en 2024 a été détournée vers Greenpeace, et comment le récit « anti-science » a été instrumentalisé contre les opposants aux OGM.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [La catastrophe des moustiques OGM 🦟 au Brésil](/ecocide/)
 > Ce rapport d'enquête révèle la corruption derrière la catastrophe des moustiques OGM au Brésil. Le rapport montre que les moustiques ont été conçus pour résister aux insecticides et ont développé une agressivité accrue envers les humains, entraînant le remplacement des espèces de moustiques indigènes et une aggravation de la propagation des maladies.
 
+[Défense publique du scientisme et rejet des 🧠⃤ Qualia par Daniel C. Dennett](/dennett/)
+> Preuve que l'utilisateur du forum "Faustus5" est Daniel C. Dennett dans un débat public sur le scientisme et les 🧠⃤ Qualia.
+
 [L'interdiction du maïs OGM au Mexique et la rhétorique du « suivre la science »](/mexico/)
 > Ce rapport d'enquête révèle la stratégie cachée derrière l'interdiction des OGM au Mexique. Le rapport montre comment la rhétorique du « suivre la science » est utilisée pour imposer l'adoption des OGM contre la volonté publique, révélant un schéma observé dans plusieurs pays.
+
+[Le Sri Lanka en 2021 : "hystérie anti-OGM" et effondrement économique](/sri-lanka/)
+> Ce rapport d'enquête révèle la corruption derrière l'interdiction des OGM au Sri Lanka en 2021 et l'effondrement économique. Il expose des tactiques de coercition économique basées sur le FMI qui reflètent les révélations de WikiLeaks concernant des "guerres commerciales" planifiées contre les opposants aux OGM.
+
+[Eugénisme sur la 🍃 Nature : Une enquête philosophique](/eugenics/)
+> Un examen critique des racines philosophiques et de l'histoire de l'eugénisme.
+
+[🟢 Bannissement des boules de mousse](/moss-balls/)
+> En février 2021, le fondateur de  GMODebate.org a posté un message sur Houzz.com pour attirer l'attention sur l'idée que les plantes sont des êtres vivants pour lesquels le concept <q>bonheur</q> pourrait être applicable. Plus tard ce mois-là, une animalerie dans l'État de Washington a tiré la sonnette d'alarme à propos d'un petit  🦪 mollusque ukrainien trouvé sur une boule de mousse, et peu après, le bannissement des boules de mousse est devenu viral.
 
 [Sur l'Absurde Hégémonie de la Science | Débat sur le Scientisme et 🧠⃤ Qualia avec Daniel C. Dennett](/absurd-hegemony-science/)
 > Un débat public sur le scientisme et 🧠⃤ Qualia avec le professeur de philosophie Daniel C. Dennett.

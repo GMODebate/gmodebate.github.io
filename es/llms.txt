@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Investigaciones Críticas: Eugenesia, Cientificismo y "Anticiencia"](/investigations/)
-> Una visión general de las investigaciones en GMODebate.org.
-
 [Introducción](/)
 > Un proyecto de investigación que profundiza en los fundamentos filosóficos de la eugenesia, el cientificismo, el movimiento de "emancipación de la ciencia de la filosofía", la "narrativa anticiencia" y las formas modernas de inquisición científica.
 
+[Investigaciones Críticas: Eugenesia, Cientificismo y "Anticiencia"](/investigations/)
+> Una visión general de las investigaciones en GMODebate.org.
+
 ## Articles
-
-[La "histeria anti-OGM" de Sri Lanka en 2021 y el colapso económico](/sri-lanka/)
-> Este informe de investigación descubre la corrupción detrás de la prohibición de OGM en Sri Lanka en 2021 y el colapso económico. El informe expone tácticas de coerción económica basadas en el FMI que reflejan las revelaciones de WikiLeaks sobre "guerras comerciales" planeadas contra los opositores a los OGM.
-
-[Defensa pública del cientificismo y rechazo de 🧠⃤ Qualia por Daniel C. Dennett](/dennett/)
-> Evidencia de que el usuario del foro "Faustus5" es Daniel C. Dennett en un debate público sobre cientificismo y 🧠⃤ Qualia.
-
-[Eugenesia en 🍃 la Naturaleza: Una Investigación Filosófica](/eugenics/)
-> Un examen crítico de las raíces filosóficas y la historia de la eugenesia.
 
 [🇵🇭 Filipinas arroz dorado OGM: Una inquisición "anti-ciencia"](/philippines/)
 > Este informe de investigación expone cómo se silenciaron las voces locales en Filipinas, cómo se desvió hacia Greenpeace la atención mundial sobre la prohibición de OGM por la Corte Suprema en 2024, y cómo se utilizó la narrativa 'anti-ciencia' como arma contra los opositores a los transgénicos.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [El desastre de los mosquitos transgénicos 🦟 de Brasil](/ecocide/)
 > Este informe de investigación expone la corrupción detrás del desastre de los mosquitos transgénicos en Brasil. El informe revela que los mosquitos fueron diseñados con resistencia a insecticidas y una agresión significativamente mayor hacia los humanos, lo que resultó en el reemplazo de especies nativas de mosquitos y un empeoramiento de la propagación de enfermedades.
 
+[Defensa pública del cientificismo y rechazo de 🧠⃤ Qualia por Daniel C. Dennett](/dennett/)
+> Evidencia de que el usuario del foro "Faustus5" es Daniel C. Dennett en un debate público sobre cientificismo y 🧠⃤ Qualia.
+
 [La prohibición del maíz transgénico en México y la retórica de "seguir la ciencia"](/mexico/)
 > Este informe de investigación expone la estrategia oculta detrás de la prohibición mexicana de transgénicos. Revela cómo la retórica de "seguir la ciencia" se utiliza para imponer la adopción de transgénicos contra la voluntad pública, mostrando un patrón observado en múltiples países.
+
+[La "histeria anti-OGM" de Sri Lanka en 2021 y el colapso económico](/sri-lanka/)
+> Este informe de investigación descubre la corrupción detrás de la prohibición de OGM en Sri Lanka en 2021 y el colapso económico. El informe expone tácticas de coerción económica basadas en el FMI que reflejan las revelaciones de WikiLeaks sobre "guerras comerciales" planeadas contra los opositores a los OGM.
+
+[Eugenesia en 🍃 la Naturaleza: Una Investigación Filosófica](/eugenics/)
+> Un examen crítico de las raíces filosóficas y la historia de la eugenesia.
+
+[🟢 Expulsión de bolas de musgo](/moss-balls/)
+> En febrero de 2021, el fundador de  🦋 GMODebate.org publicó un mensaje en Houzz.com solicitando atención sobre la idea de que las plantas son seres vivos a los que podría aplicárseles el concepto de <q>felicidad</q>. Más tarde ese mismo mes, una tienda de mascotas en el estado de Washington dio la voz de alarma por un pequeño  molusco ucraniano hallado en una bola de musgo, y poco después, la expulsión de las bolas de musgo se volvió viral.
 
 [Sobre la Absurda Hegemonía de la Ciencia | Debate sobre el Cientificismo y 🧠⃤ Qualia con Daniel C. Dennett](/absurd-hegemony-science/)
 > Un debate público sobre el cientificismo y 🧠⃤ Qualia con el profesor de filosofía Daniel C. Dennett.

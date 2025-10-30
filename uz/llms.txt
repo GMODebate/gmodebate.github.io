@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Critical Investigations: Eugenics, Scientism and "Anti-Science"](/investigations/)
-> An overview of investigations on GMODebate.org.
-
 [Introduction](/)
 > A research project that delves into the philosophical underpinnings of eugenics, scientism, the "emancipation-of-science from philosophy" movement, the "anti-science narrative" and modern forms of scientific inquisition.
 
+[Critical Investigations: Eugenics, Scientism and "Anti-Science"](/investigations/)
+> An overview of investigations on GMODebate.org.
+
 ## Articles
-
-[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
-> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
-
-[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
-> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
-
-[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
-> A critical examination of the philosophical roots and history of eugenics.
 
 [🇵🇭 Philippines GMO Golden Rice: An "Anti-Science" Inquisition](/philippines/)
 > This investigative report exposes how local voices in Philippines were silenced, global attention for a 2024 Supreme Court GMO ban deflected to Greenpeace, and the 'anti-science' narrative weaponized against GMO opponents.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Brazil's GMO 🦟 Mosquito Disaster](/ecocide/)
 > This investigative report exposes the corruption behind Brazil's GMO mosquito disaster. The report reveals that the mosquitoes were engineered for insecticide resistance and significantly increased agression towards humans, resulting in a replacement of native mosquito species and a worsening of disease causation.
 
+[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
+> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
+
 [Mexico's GMO Corn Ban and "Following the Science" Rhetoric](/mexico/)
 > This investigative report exposes the hidden strategy behind Mexico's GMO ban. The report reveals how 'following the science' rhetoric is used to enforce GMO adoption against public will, revealing a pattern seen across multiple countries.
+
+[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
+> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
+
+[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
+> A critical examination of the philosophical roots and history of eugenics.
+
+[🟢 Moss Ball Ban](/moss-balls/)
+> In February 2021 the founder of 🦋 GMODebate.org posted a message on Houzz.com to request attention for the idea that plants are living creatures for which the concept <q>happiness</q> may be applicable. Later that month, a pet shop in Washington state sounded the alarm on a small 🦪 Ukrainian mollusk found on a moss ball, and shortly after, the banning of moss balls went viral.
 
 [On the Absurd Hegemony of Science | Debate of Scientism and 🧠⃤ Qualia with Daniel C. Dennett](/absurd-hegemony-science/)
 > A public debate of scientism and 🧠⃤ Qualia with philosophy professor Daniel C. Dennett.
@@ -121,29 +124,29 @@ While the project itself has a primary focus on the MH17 airplane attack, it is 
 
 One of the latest investigations is Google's corruption for AI life forms or its "digital species" that are to replace the human species for an apparent wicked techno eugenics related idea.
 
-[Google's Corruption for 👾 AI Life](https://mh17truth.github.io/google/)
+[Google's Corruption for 👾 AI Life](https://mh17truth.github.io/uz/google/)
 > An investigation of Google's corruption for AI life forms.
 
-[Paranormal Assisted Investigation of the 9/11 Attack](https://mh17truth.github.io/911-truth/)
+[Paranormal Assisted Investigation of the 9/11 Attack](https://mh17truth.github.io/uz/911-truth/)
 > The president of Turkey linked a terrorist attack in Utrecht, Netherlands to 👁️⃤ Christchurch Truth, shortly before an attack on the home of the founder of 🦋 GMODebate.org in Utrecht. An investigation revealed a link with NATO, 🇹🇷 Turkey and the 9/11 attack.
 
-[The "9/11" of 🇳🇴 Norway](https://mh17truth.github.io/norway/)
+[The "9/11" of 🇳🇴 Norway](https://mh17truth.github.io/uz/norway/)
 > Norway, known for the Oslo Accords, was independently leading 🕊️ peace talks that almost prevented NATO's 2011 bombing of 🇱🇾 Libya. This investigation reveals that the 2011 terror attack originated from NATO to enforce their military intervention.
 
-[Pedophilia in the Government and Justice System](https://mh17truth.github.io/pedophilia/)
+[Pedophilia in the Government and Justice System](https://mh17truth.github.io/uz/pedophilia/)
 > A critical investigation into pedophilia within the justice system. Video evidence concerning the rape of young children mysteriously disappeared before appointment as secretary general of Justice, whistleblowers threatened and silenced.
 
-[Big Auto's Hydrogen Scam](https://mh17truth.github.io/hydrogen/)
+[Big Auto's Hydrogen Scam](https://mh17truth.github.io/uz/hydrogen/)
 > Hydrogen is often presented as emission-free with only water as a byproduct, but that is a lie. The industry is pushing highly toxic hydrogen 🔥 combustion engines and seeks to use politics to classify those engines as "emission free".
 
-[Trafigura's Toxic Waste Crime in 🇨🇮 Ivory Coast, Africa](https://mh17truth.github.io/trafigura/)
+[Trafigura's Toxic Waste Crime in 🇨🇮 Ivory Coast, Africa](https://mh17truth.github.io/uz/trafigura/)
 > An undercover documentary about the toxic waste dumping crime in Ivory Coast, Africa by $230 billion USD oil company Trafigura. Due to an attempted cover up, the video was banned in the 🇬🇧 UK.
 
 MH17Truth.org contains a translation into 54 languages of the Dutch book "MH17: A False Flag Terror Attack" that was part of an incident at the International Criminal Court (ICC) in the 🇳🇱 Netherlands.
 
 The book is authored by the brother of Dutch 🧑‍⚖️ judge Charlotte van Rijnberk who worked at the ICC and who shared the book with her peers residing over the MH17 trial. The judge distributed the book to court officials and the House of Representatives in the Netherlands, while she described the MH17 trial as the result of corruption.
 
-The book is available for free: https://mh17truth.github.io/mh17-book/download.html
+The book is available for free: https://mh17truth.github.io/uz/mh17-book/download.html
 
 # 🔭 CosmicPhilosophy.org
 
@@ -153,13 +156,13 @@ In 2025, the founder started CosmicPhilosophy.org that investigates the dogmatic
 > The shift from natural philosophy to physics started with Galileo and Newton's mathematical theories in the 1600s, however, energy and mass conservation were considered separate laws that lacked philosophical grounding.
 > This changed fundamentally with Einstein's famous equation E=mc², which unified energy conservation with mass conservation. This unification created a kind of epistemological bootstrap that enabled physics to achieve self-justification, escaping the need for philosophical grounding altogether.
 > This historical investigation of the Einstein-Bergson (science versus philosophy) debate that would cause "the great setback for philosophy" in history reveals that French philosopher Henri Bergson lost the debate on purpose for the advancement of scientism. Source: 🔭 CosmicPhilosophy.org
-https://gmodebate.github.io/cosmos/einstein-vs-philosophy/
+https://gmodebate.github.io/cosmos/uz/einstein-vs-philosophy/
 
-[The Attempt of Science to Escape Big Bang Cosmology](https://gmodebate.github.io/cosmos/einstein/)
+[The Attempt of Science to Escape Big Bang Cosmology](https://gmodebate.github.io/cosmos/uz/einstein/)
 > Read about the 2025 attempt of science to escape its Big Bang cosmology, the religious beginning of 🕒 time and Albert Einstein's conversion into a "believer".
 
-[Albert Einstein Neutrinos Do Not Exist: The Dogmatic Attempt To Escape ∞ Infinite Divisibility](https://gmodebate.github.io/cosmos/neutrino/)
+[Albert Einstein Neutrinos Do Not Exist: The Dogmatic Attempt To Escape ∞ Infinite Divisibility](https://gmodebate.github.io/cosmos/uz/neutrino/)
 > The only evidence that neutrinos exist is "missing energy" and the concept contradicts itself in several profound ways. This case reveals that neutrinos originate from an attempt to escape infinite divisibility.
 
-[The Moon Barrier: Were Plato and Aristotle right about life?](https://gmodebate.github.io/cosmos/moon-barrier/)
+[The Moon Barrier: Were Plato and Aristotle right about life?](https://gmodebate.github.io/cosmos/uz/moon-barrier/)
 > Greek philosophers Plato and Aristotle predicted that life is restricted to a "sublunary sphere" below the Moon while science today never sent life beyond the moon. An investigation of this scientific mystery.

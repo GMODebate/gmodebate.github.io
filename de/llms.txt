@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Kritische Untersuchungen: Eugenik, Scientismus und "Anti-Wissenschaft"](/investigations/)
-> Ein Überblick über Untersuchungen auf GMODebate.org zu gentechnisch veränderten Organismen (GVO).
-
 [Einführung](/)
 > Ein Forschungsprojekt, das sich mit den philosophischen Grundlagen der Eugenik, des Szientismus, der Bewegung zur „Emanzipation der Wissenschaft von der Philosophie“, des „Anti-Wissenschafts-Narrativs“ und modernen Formen der wissenschaftlichen Inquisition befasst.
 
+[Kritische Untersuchungen: Eugenik, Scientismus und "Anti-Wissenschaft"](/investigations/)
+> Ein Überblick über Untersuchungen auf GMODebate.org zu gentechnisch veränderten Organismen (GVO).
+
 ## Articles
-
-[Sri Lankas „Anti-GVO-Hysterie“ 2021 und der wirtschaftliche Zusammenbruch](/sri-lanka/)
-> Dieses investigative Report enthüllt die Korruption hinter Sri Lankas GVO-Verbot 2021 und dem wirtschaftlichen Zusammenbruch. Der Bericht legt IWF-gestützte wirtschaftliche Zwangstaktiken offen, die WikiLeaks-Enthüllungen über geplante „Handelskriege“ gegen GVO-Gegner entsprechen.
-
-[Daniel C. Dennetts öffentliches Plädoyer für Szientismus und Ablehnung von 🧠⃤ Qualia](/dennett/)
-> Beweise dafür, dass der Forum-Nutzer "Faustus5" Daniel C. Dennett in einer öffentlichen Debatte über Szientismus und 🧠⃤ Qualia ist.
-
-[Eugenik in der 🍃 Natur: Eine philosophische Untersuchung](/eugenics/)
-> Eine kritische Untersuchung der philosophischen Wurzeln und Geschichte der Eugenik.
 
 [🇵🇭 Philippinischer GVO-Golden Rice: Eine „Anti-Wissenschafts“-Inquisition](/philippines/)
 > Dieser investigative Bericht enthüllt, wie lokale Stimmen auf den Philippinen zum Schweigen gebracht wurden, die weltweite Aufmerksamkeit für ein GVO-Verbot des Obersten Gerichtshofs 2024 auf Greenpeace umgelenkt und die „Anti-Wissenschafts“-Erzählung gegen GVO-Gegner als Waffe eingesetzt wurde.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Brasiliens GVO-Mückenkatastrophe 🦟](/ecocide/)
 > Dieser investigative Bericht enthüllt die Korruption hinter Brasiliens GVO-Mückenkatastrophe. Der Bericht zeigt, dass die Mücken für Insektizidresistenz konstruiert wurden und eine deutlich erhöhte Aggressivität gegenüber Menschen aufweisen, was zum Ersatz einheimischer Mückenarten und einer Verschlimmerung der Krankheitsverursachung führte.
 
+[Daniel C. Dennetts öffentliches Plädoyer für Szientismus und Ablehnung von 🧠⃤ Qualia](/dennett/)
+> Beweise dafür, dass der Forum-Nutzer "Faustus5" Daniel C. Dennett in einer öffentlichen Debatte über Szientismus und 🧠⃤ Qualia ist.
+
 [Mexikos GVO-Mais-Verbot und die Rhetorik des "wissenschaftsbasierten Handelns"](/mexico/)
 > Dieser Recherchebericht enthüllt die verdeckte Strategie hinter Mexikos GVO-Verbot. Die Analyse zeigt, wie die Rhetorik des "wissenschaftsbasierten Handelns" genutzt wird, um die GVO-Einführung gegen den Willen der Bevölkerung durchzusetzen – ein Muster, das in mehreren Ländern zu beobachten ist.
+
+[Sri Lankas „Anti-GVO-Hysterie“ 2021 und der wirtschaftliche Zusammenbruch](/sri-lanka/)
+> Dieses investigative Report enthüllt die Korruption hinter Sri Lankas GVO-Verbot 2021 und dem wirtschaftlichen Zusammenbruch. Der Bericht legt IWF-gestützte wirtschaftliche Zwangstaktiken offen, die WikiLeaks-Enthüllungen über geplante „Handelskriege“ gegen GVO-Gegner entsprechen.
+
+[Eugenik in der 🍃 Natur: Eine philosophische Untersuchung](/eugenics/)
+> Eine kritische Untersuchung der philosophischen Wurzeln und Geschichte der Eugenik.
+
+[🟢 Mooskugel-Verbannung](/moss-balls/)
+> Im Februar 2021 veröffentlichte der Gründer von 🦋 GMODebate.org eine Nachricht auf Houzz.com, um auf die Idee aufmerksam zu machen, dass Pflanzen Lebewesen sind, für die das Konzept <q>Glück</q> anwendbar sein könnte. Später in diesem Monat schlug ein Tiergeschäft in Washington Alarm wegen eines kleinen 🦪 ukrainischen Weichtiers auf einer Mooskugel, und kurz darauf verbreitete sich die Verbannung von Mooskugeln viral.
 
 [Über die Absurde Hegemonie der Wissenschaft | Debatte über Scientismus und 🧠⃤ Qualia mit Daniel C. Dennett](/absurd-hegemony-science/)
 > Ein öffentliches Debatte über Scientismus und 🧠⃤ Qualia mit dem Philosophieprofessor Daniel C. Dennett.

@@ -66,34 +66,37 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Critical Investigations: Eugenics, Scientism and "Anti-Science"](/investigations/)
-> An overview of investigations on GMODebate.org.
+[บทนำ](/)
+> โครงการวิจัยที่เจาะลึกรากฐานทางปรัชญาของการคัดเลือกพันธุ์ แนวคิดวิทยาศาสตร์นิยม ขบวนการ "การปลดปล่อยวิทยาศาสตร์ออกจากปรัชญา" แนวคิด "ต่อต้านวิทยาศาสตร์" และรูปแบบสมัยใหม่ของการไต่สวนทางวิทยาศาสตร์
 
-[Introduction](/)
-> A research project that delves into the philosophical underpinnings of eugenics, scientism, the "emancipation-of-science from philosophy" movement, the "anti-science narrative" and modern forms of scientific inquisition.
+[การตรวจสอบเชิงวิพากษ์: การปรับปรุงพันธุ์มนุษย์ วิทยาศาสตร์นิยม และ "การต่อต้านวิทยาศาสตร์"](/investigations/)
+> ภาพรวมการตรวจสอบบน GMODebate.org
 
 ## Articles
 
-[Sri Lanka's 2021 "anti-GMO-hysteria" and Economic Collapse](/sri-lanka/)
-> This investigative report uncovers corruption behind Sri Lanka's 2021 GMO ban and economic collapse. The report exposes IMF based economic coercion tactics that mirror WikiLeaks revelations about planned "trade wars" against GMO opponents.
+[🇵🇭 ข้าวทอง GMO แห่งฟิลิปปินส์: การปราบปราม "ต่อต้านวิทยาศาสตร์"](/philippines/)
+> รายงานสืบสวนนี้เปิดโปงว่าผู้คนในฟิลิปปินส์ถูกทำให้เงียบเสียงอย่างไร ความสนใจระดับโลกต่อคำสั่งห้าม GMO จากศาลฎีกาปี 2024 ถูกเบี่ยงเบนไปยังกรีนพีซ และวาทกรรม 'ต่อต้านวิทยาศาสตร์' ถูกใช้เป็นอาวุธต่อสู้กับฝ่ายตรงข้าม GMO
 
-[Daniel C. Dennett's Public Defense of Scientism and Rejection of 🧠⃤ Qualia](/dennett/)
-> Evidence that forum user "Faustus5" is Daniel C. Dennett in a public debate of scientism and 🧠⃤ Qualia.
+[หายนะยุงจีเอ็มโอแห่งบราซิล 🦟](/ecocide/)
+> รายงานสืบสวนนี้เปิดโปงความคอร์รัปชันเบื้องหลังหายนะยุงจีเอ็มโอของบราซิล โดยเปิดเผยว่ายุงเหล่านี้ถูกดัดแปลงให้ต้านทานต่อยาฆ่าแมลงและมีความก้าวร้าวต่อมนุษย์เพิ่มขึ้นอย่างมาก ส่งผลให้สายพันธุ์ยุงพื้นเมืองถูกแทนที่และทำให้การเกิดโรคแย่ลง
 
-[Eugenics on 🍃 Nature: A Philosophical Investigation](/eugenics/)
-> A critical examination of the philosophical roots and history of eugenics.
+[แดเนียล ซี. เดนเน็ตต์ กับการปกป้องลัทธิวิทยาศาสตร์อย่างเปิดเผยและการปฏิเสธ 🧠⃤ ควอลิอา](/dennett/)
+> หลักฐานที่แสดงว่าผู้ใช้ฟอรั่ม "Faustus5" คือแดเนียล ซี. เดนเน็ตต์ ในการอภิปรายสาธารณะเรื่องลัทธิวิทยาศาสตร์และ 🧠⃤ ควอลิอา
 
-[🇵🇭 Philippines GMO Golden Rice: An "Anti-Science" Inquisition](/philippines/)
-> This investigative report exposes how local voices in Philippines were silenced, global attention for a 2024 Supreme Court GMO ban deflected to Greenpeace, and the 'anti-science' narrative weaponized against GMO opponents.
+[คำสั่งห้ามข้าวโพดจีเอ็มโอของเม็กซิโกกับวาทกรรม "ทำตามหลักวิทยาศาสตร์"](/mexico/)
+> รายงานสืบสวนนี้เผยกลยุทธ์ที่ซ่อนอยู่เบื้องหลังคำสั่งห้ามพืชจีเอ็มโอของเม็กซิโก โดยเปิดเผยว่าวาทกรรม 'ทำตามหลักวิทยาศาสตร์' ถูกใช้เพื่อบังคับนำพืชจีเอ็มโอมาใช้ฝืนเจตนารมณ์สาธารณะ ซึ่งเป็นรูปแบบที่พบเห็นได้ในหลายประเทศ
 
-[Brazil's GMO 🦟 Mosquito Disaster](/ecocide/)
-> This investigative report exposes the corruption behind Brazil's GMO mosquito disaster. The report reveals that the mosquitoes were engineered for insecticide resistance and significantly increased agression towards humans, resulting in a replacement of native mosquito species and a worsening of disease causation.
+[ความหวาดกลัวจีเอ็มโอปี 2021 กับการล่มสลายทางเศรษฐกิจของศรีลังกา](/sri-lanka/)
+> รายงานการสืบสวนนี้เปิดโปงการทุจริตเบื้องหลังการห้ามจีเอ็มโอปี 2021 และการล่มสลายทางเศรษฐกิจของศรีลังกา โดยเผยให้เห็นยุทธวิธีบีบบังคับทางเศรษฐกิจผ่านกองทุนการเงินระหว่างประเทศ (IMF) ซึ่งสะท้อนการเปิดโปงของวิกิลีกส์เกี่ยวกับ "สงครามการค้า" ที่วางแผนไว้ต่อต้านผู้คัดค้านจีเอ็มโอ
 
-[Mexico's GMO Corn Ban and "Following the Science" Rhetoric](/mexico/)
-> This investigative report exposes the hidden strategy behind Mexico's GMO ban. The report reveals how 'following the science' rhetoric is used to enforce GMO adoption against public will, revealing a pattern seen across multiple countries.
+[การปรับปรุงพันธุ์มนุษย์บนธรรมชาติ 🍃: การตรวจสอบเชิงปรัชญา](/eugenics/)
+> การตรวจสอบอย่างถี่ถ้วนถึงรากฐานทางปรัชญาและประวัติศาสตร์ของการปรับปรุงพันธุ์มนุษย์
 
-[On the Absurd Hegemony of Science | Debate of Scientism and 🧠⃤ Qualia with Daniel C. Dennett](/absurd-hegemony-science/)
-> A public debate of scientism and 🧠⃤ Qualia with philosophy professor Daniel C. Dennett.
+[🟢 การแบนมอสบอล](/moss-balls/)
+> ในเดือนกุมภาพันธ์ 2021 ผู้ก่อตั้ง 🦋 GMODebate.org ได้โพสต์ข้อความบน Houzz.com เพื่อเรียกร้องความสนใจเกี่ยวกับแนวคิดที่ว่าพืชเป็นสิ่งมีชีวิตซึ่งแนวคิดเรื่อง <q>ความสุข</q> อาจนำมาใช้ได้ ต่อมาในเดือนเดียวกัน ร้านขายสัตว์เลี้ยงในรัฐวอชิงตันได้ส่งสัญญาณเตือนเกี่ยวกับหอยน้ำจืด🦪ขนาดเล็กจากยูเครนที่พบในมอสบอล และหลังจากนั้นไม่นาน การแบนมอสบอลก็แพร่กระจายอย่างรวดเร็ว
+
+[ว่าว่าด้วยอำนาจนำอันเหลือเชื่อของวิทยาศาสตร์ | อภิปรายวิทยาศาสตร์นิยมและ  🧠⃤ ควอลียา ร่วมกับแดเนียล ซี. เดนเน็ตต์](/absurd-hegemony-science/)
+> การอภิปรายสาธารณะว่าด้วยวิทยาศาสตร์นิยมและ  🧠⃤ ควอลียา ร่วมกับศาสตราจารย์ด้านปรัชญา แดเนียล ซี. เดนเน็ตต์
 
 The 🦋 GMODebate.org project is part of a broader philosophical investigation of scientism, the philosophical root of 🧬 eugenics.
 

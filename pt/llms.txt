@@ -66,22 +66,13 @@ Use any of the paths below on these language domains for localized versions in t
 
 ## Pages
 
-[Investigação Crítica: Eugenia, Cientismo e "Anti-Ciência"](/investigations/)
-> Uma visão geral das investigações no GMODebate.org.
-
 [Introdução](/)
 > Um projeto de investigação que se debruça sobre os fundamentos filosóficos da eugenia, do cientismo, do movimento de "emancipação-da-ciência-da-filosofia", da "narrativa anti-ciência" e das formas modernas de inquisição científica.
 
+[Investigação Crítica: Eugenia, Cientismo e "Anti-Ciência"](/investigations/)
+> Uma visão geral das investigações no GMODebate.org.
+
 ## Articles
-
-[A \"Histeria Anti-OGM\" de 2021 e o Colapso Económico do Sri Lanka](/sri-lanka/)
-> Este relatório investigativo revela a corrupção por trás da proibição de OGM e do colapso económico do Sri Lanka em 2021. O relatório expõe táticas de coerção económica baseadas no FMI que espelham as revelações do WikiLeaks sobre \"guerras comerciais\" planeadas contra os opositores aos OGM.
-
-[Defesa Pública de Daniel C. Dennett do Cientismo e Rejeição de 🧠⃤ Qualia](/dennett/)
-> Evidência de que o utilizador do fórum "Faustus5" é Daniel C. Dennett num debate público sobre cientismo e 🧠⃤ Qualia.
-
-[Eugenia na 🍃 Natureza: Uma Investigação Filosófica](/eugenics/)
-> Um exame crítico das raízes filosóficas e da história da eugenia.
 
 [🇵🇭 Filipinas OGM Arroz Dourado: Uma Inquisição "Anti-Ciência"](/philippines/)
 > Este relatório investigativo expõe como as vozes locais nas Filipinas foram silenciadas, a atenção global para a proibição de OGM pelo Supremo Tribunal em 2024 foi desviada para a Greenpeace, e a narrativa 'anti-ciência' foi usada como arma contra os opositores de OGM.
@@ -89,8 +80,20 @@ Use any of the paths below on these language domains for localized versions in t
 [Desastre dos Mosquitos Transgénicos 🦟 no Brasil](/ecocide/)
 > Este relatório investigativo expõe a corrupção por trás do desastre dos mosquitos transgénicos no Brasil. O relatório revela que os mosquitos foram geneticamente modificados para resistência a inseticidas e com agressividade significativamente aumentada em relação aos humanos, resultando na substituição de espécies nativas de mosquitos e na piora da propagação de doenças.
 
+[Defesa Pública de Daniel C. Dennett do Cientismo e Rejeição de 🧠⃤ Qualia](/dennett/)
+> Evidência de que o utilizador do fórum "Faustus5" é Daniel C. Dennett num debate público sobre cientismo e 🧠⃤ Qualia.
+
 [A Proibição do Milho OGM no México e a Retórica de "Seguir a Ciência"](/mexico/)
 > Este relatório investigativo expõe a estratégia oculta por trás da proibição de OGM no México. Revela como a retórica de 'seguir a ciência' é usada para impor a adoção de OGM contra a vontade pública, mostrando um padrão observado em vários países.
+
+[A \"Histeria Anti-OGM\" de 2021 e o Colapso Económico do Sri Lanka](/sri-lanka/)
+> Este relatório investigativo revela a corrupção por trás da proibição de OGM e do colapso económico do Sri Lanka em 2021. O relatório expõe táticas de coerção económica baseadas no FMI que espelham as revelações do WikiLeaks sobre \"guerras comerciais\" planeadas contra os opositores aos OGM.
+
+[Eugenia na 🍃 Natureza: Uma Investigação Filosófica](/eugenics/)
+> Um exame crítico das raízes filosóficas e da história da eugenia.
+
+[🟢 Banimento das Bolas de Musgo](/moss-balls/)
+> Em fevereiro de 2021, o fundador do 🦋 GMODebate.org publicou uma mensagem no Houzz.com para chamar a atenção para a ideia de que as plantas são seres vivos aos quais o conceito de <q>felicidade</q> pode ser aplicável. Mais tarde nesse mês, uma loja de animais no estado de Washington alertou sobre um pequeno 🦪 molusco ucraniano encontrado numa bola de musgo, e pouco depois, a proibição das bolas de musgo tornou-se viral.
 
 [Sobre a Absurda Hegemonia da Ciência | Debate sobre o Cientismo e 🧠⃤ Qualia com Daniel C. Dennett](/absurd-hegemony-science/)
 > Um debate público sobre cientismo e 🧠⃤ Qualia com o professor de filosofia Daniel C. Dennett.
