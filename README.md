@@ -24,3 +24,4 @@ This repository contains a Github Pages backup of GMODebate.org.
 > Those [now] in control of the "_tech_", seem to want to **exhort** the "_tech_" over those that invented and created the overall technology and AI tech, so _alluding_… that **_you_** may have invented it all, but **_we_** now own it all, and we are endeavouring to make it surpass you because all you did was invent it.
 >
 > _The_ intent^
+
